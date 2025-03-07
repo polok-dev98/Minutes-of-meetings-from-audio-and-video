@@ -58,3 +58,6 @@ This project is open-source and licensed under the MIT License.
 
 For any questions or suggestions, please contact the repository owner through GitHub.
 
+### ✨Author
+👨‍💻 Asif Pervez Polok
+🔗 LinkedIn: https://www.linkedin.com/in/polok98/
