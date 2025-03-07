@@ -52,12 +52,6 @@ Contributions are welcome! Feel free to fork the repository, create a new branch
 
 <h3>License</h3>
 
-<h3>Contribution</h3>
-
-Author : Asif Pervez Polok
-
-<h3>License</h3>
-
 This project is open-source and licensed under the MIT License.
 
 <h3>Contact</h3>
