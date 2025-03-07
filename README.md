@@ -35,7 +35,7 @@ python-dotenv
 <h3>Clone this repository:</h3>
 
 ```bash
-git clone https://gitlab.com/Bikas0/minutes-of-meetings-from-audio-and-video.git
+git clone https://github.com/polok-dev98/Minutes-of-meetings-from-audio-and-video
 ```
 
 <h3>Install the required libraries:</h3>
@@ -49,6 +49,12 @@ pip install -r requirements.txt
 <h3>Contribution</h3>
 
 Contributions are welcome! Feel free to fork the repository, create a new branch, and submit a pull request.
+
+<h3>License</h3>
+
+<h3>Contribution</h3>
+
+Author : Asif Pervez Polok
 
 <h3>License</h3>
 
